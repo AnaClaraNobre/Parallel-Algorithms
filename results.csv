@@ -1,0 +1,4 @@
+Algorithm,Occurrences,ExecutionTime(ms)
+SerialCPU,8101,158
+ParallelCPU,8101,85
+ParallelGPU,11608,165
