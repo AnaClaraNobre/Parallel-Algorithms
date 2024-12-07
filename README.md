@@ -82,6 +82,6 @@ Já o método ParallelGPU, implementado com a biblioteca JOCL e OpenCL, apresent
 No entanto, sua capacidade de executar milhares de threads simultaneamente sugere que, para volumes extremamente grandes de dados, essa abordagem pode superar as demais.
 
 Referências:
-
+https://github.com/AnaClaraNobre/Parallel-Algorithms/tree/main
 
 
